@@ -65,14 +65,14 @@ Note: Your downloaded file can be placed on an HDD, but please have Wabbajack an
 
 This can take a while depending on your computer and internet connection. Please have patience, even if it doesn't seem like Wabbajack is doing anything at times, it really is.
 <!-- Instructions for when it's on the UI -->
-<!-- 1. Setup your install and download location. Something like "C:\WIST" or "C:\Games\WIST" would be great.  -->
+<!-- 1. Setup your install and download location. Something like `C:\WIST` or `C:\Games\WIST` would be great.  -->
 <!-- 1.1 Do not make these folders on your desktop or in downloads! These locations will cause issues. Again it is recommended to install on the list on an SSD, the game will run smoother there.  -->
 <!-- 2. Open Wabbajack and click on the "Browse Modlists" cloud. Make sure to check the "Show Unofficial Lists" checkbox at the top.  -->
 <!-- 3. Find the Depths of Saarthowl tile and click on the "Download Modlist" downward arrow. Wait a moment while the install file downloads.  -->
 <!-- 4. Set the "Modlist Installation Location" to the folder you setup in step 1.  -->
 <!-- 4.1 Make sure that "Modlist Installation Location" and "Resource Download Location" **are different folders**.  -->
 <!-- 4.2 The download folder does not have to be on an SSD, it will just work fast there.  -->
-<!-- 4.3 By default a resource folder should default to something like "C:\WIST" or "C:\Games\WIST\downloads".  -->
+<!-- 4.3 By default a resource folder should default to something like `C:\WIST\downloads` or `C:\Games\WIST\downloads`.  -->
 <!-- 4.4 If you install multiple lists it is acceptable and recommended to share a download folder to save space.  -->
 <!-- 5. Press the play button to start the process.  -->
 <!-- 5.1 If you have Nexus Premium it is just a waiting game!  -->
@@ -84,7 +84,7 @@ This can take a while depending on your computer and internet connection. Please
 
 <!-- Instructions for when it's a downloaded file -->
 
-1. Setup your install and download location. Something like "C:\WIST" or "C:\Games\WIST" would be great.  
+1. Setup your install and download location. Something like `C:\WIST` or `C:\Games\WIST` would be great.  
 1.1 Do not make these folders on your desktop or in downloads! These locations will cause issues. Again it is recommended to install on the list on an SSD, the game will run smoother there.  
 2. Download the Wabbajack file from wherever I hosted it. I'll add a link when it's uploaded.  
 2.1 Open Wabbajack and click on the "Install From Disk" icon.  
@@ -92,7 +92,7 @@ This can take a while depending on your computer and internet connection. Please
 4. Set the "Modlist Installation Location" to the folder you setup in step 1.  
 4.1 Make sure that "Modlist Installation Location" and "Resource Download Location" **are different folders**.  
 4.2 The download folder does not have to be on an SSD, it will just work fast there.  
-4.3 By default a resource folder should default to something like "C:\WIST\downloads" or "C:\Games\WIST\downloads".  
+4.3 By default a resource folder should default to something like `C:\WIST\downloads` or `C:\Games\WIST\downloads`.  
 4.4 If you install multiple lists it is acceptable and recommended to share a download folder to save space.  
 5. Press the play button to start the process.  
 5.1 If you have Nexus Premium it is just a waiting game!  
@@ -134,9 +134,9 @@ WIST uses [Community Shaders and addons](https://www.nexusmods.com/skyrimspecial
 
 If you haven't already, please check out the page for [KreatE](https://www.nexusmods.com/skyrimspecialedition/mods/83757 "by LonelyKitsuune").
 
-You can open the KreatE GUI by hitting "Home". 
+You can open the KreatE GUI by hitting `Home` key. 
 
-KreatE will allow you to adjust the your lighting settings in real time.
+KreatE will allow you to adjust the your lighting settings in real time. Make area brighter or darker to fit your gameplay preferences.
 
 ## Playing the List
 
@@ -148,7 +148,7 @@ KreatE will allow you to adjust the your lighting settings in real time.
 Open the installation folder you set and double click on the program called `ModOrganizer.exe`. 
 
 Make sure the dropdown box on the right is set to `Skyrim Together Reborn - Client`. The first time you launch it, or after an update, hold space as you press `Run` button.  
-This will bring up another window. You will need to navigate to where you have installed WIST, go into the "Game Root" folder and select the "SkyrimSE.exe".
+This will bring up another window. You will need to navigate to where you have installed WIST, go into the `Game Root` folder and select the `SkyrimSE.exe`.
 
 ### In-Game MCM options
 
