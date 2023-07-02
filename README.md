@@ -1,5 +1,7 @@
 # WIST
-Windbreakers In Skyrim Together
+Windbreakers In Skyrim Together is a [Skyrim Together](https://www.nexusmods.com/skyrimspecialedition/mods/69993) wabbajack modlist.  
+I recommend you to read the mod page and browse the wiki before launching Skyrim Together for the first time.
+
 <!--  -->
 ## System Requirements
 
@@ -124,20 +126,9 @@ WIST utilizes a Wabbajack feature called Stock Game.
 This creates a copy of your Skyrim install within the modlist. This leaves your Steam folder clean and allows the list to be safe from Steam updates.
 
 
-### Community Shaders
+### Alternate Start
 
-WIST uses [Community Shaders and addons](https://www.nexusmods.com/skyrimspecialedition/mods/86492 "by The Community").  
-
-
-
-### Customizing Community Shaders with KreatE
-
-If you haven't already, please check out the page for [KreatE](https://www.nexusmods.com/skyrimspecialedition/mods/83757 "by LonelyKitsuune").
-
-You can open the KreatE GUI by hitting `Home` key. 
-
-KreatE will allow you to adjust the your lighting settings in real time. Make area brighter or darker to fit your gameplay preferences.
-
+WIST uses [Optional Quick Start](https://www.nexusmods.com/skyrimspecialedition/mods/63953) to get you into the game quick. It is highly recommended to use it and skip the intro.
 ## Playing the List
 
 ### :heavy_check_mark: Have Fun!
@@ -152,6 +143,8 @@ This will bring up another window. You will need to navigate to where you have i
 
 ### In-Game MCM options
 
-Depths of Saarthowl comes with an MCM recorder to get your game setup! No extra worked required.
+WIST comes with an MCM recorder to get your game setup! No extra worked required. Just give it a moment after character creation to run and you're all set.
 
 <!-- Inspiratino for this readme from https://github.com/The-Animonculory/AVO/blob/main/Readme.md Thanks Animonculory Team! -->
+
+
